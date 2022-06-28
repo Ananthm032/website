@@ -1,0 +1,50 @@
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color:black
+}
+h1,h4,p, a{
+    color:rgb(252, 248, 248);
+   text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+
+.btn{
+    padding: 12px 32px;
+font-size: 2rem;
+text-transform: uppercase;
+background-color: rgb(12, 31, 204);
+border: 1px solid rgb(231, 228, 222);
+font-weight: 600;
+cursor: pointer;
+
+}
+.btn-light{
+    padding: 12px 32px;
+    font-size: 2rem;
+    text-transform: uppercase;
+    background-color: transparent;
+    border: 1px solid rgb(231, 228, 222);
+    font-weight: 600;
+    cursor: pointer;
+
+}
+.btn:hover{
+    background-color: rgb(30, 141, 211);
+    color:white;
+    transition: 0.3s;
+}
+.btn-light:hover{
+    background-color: rgb(187, 64, 64);
+    color:white;
+    transition: 0.3s;
+}

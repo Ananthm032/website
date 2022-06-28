@@ -1,0 +1,62 @@
+.Bg-logo{
+background-color: aliceblue;
+}
+.about{
+    width: 100%;
+    height: 75vh;
+    position: relative;
+}
+ .para{
+    color: #000;
+    margin-left :2%;
+}
+.para h1{
+    color: rgb(38, 7, 212);
+    font-size: 35px;margin-left: 0;
+}
+.para h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+.about-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+
+}
+.Bg-logo2{
+    cursor: move;
+    height: 100%;
+    left: 5%;
+    width: 100%;
+    display: flex;
+  
+}
+.logo-ul{
+   font-size: 25px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   margin-left: 20%;
+   align-items: center;
+   display:inline-flexbox
+  
+}
+.Bg-logo3 h4{
+    color: #000;
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+  
+}
+.Bg-logo3 h1{
+    color: rgb(231, 15, 15);
+    font-size: 60px;
+ flex-direction: row;
+}
+.exp{
+    color: #000;
+    display: flex;
+    font-size: 30px;
+}
+@media screen and (max-width:1040px){
+    
+}

@@ -1,0 +1,50 @@
+.project{
+    background-color: aliceblue;
+}
+.intro{
+    align-items: center;
+    justify-content: center;
+   
+}
+.intro p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    margin-left: 30%;
+    color: rgb(0, 10, 9);
+}
+.intro h1{
+    margin-left: 45%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(1, 14, 15);
+}
+.image{
+   display: flex;
+    grid-gap:20px ;
+   grid-template-columns: auto;
+ 
+}
+.img1{
+    height: 50%;
+    width: 50%;
+}
+   
+.img2{
+    width: 95%;
+    height: 100%;
+  
+}
+.next h1{
+    margin-left: 40%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    color: rgb(2, 46, 59);
+}
+.next p{
+    margin-left:7.5% ;
+    color: rgb(2, 46, 59);
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.next img{
+    margin-left: 30%;
+}
