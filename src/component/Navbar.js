@@ -35,7 +35,7 @@ return(
     </li>
        </ul> 
      <div className="Bar" onClick={handleClick}>
-     <AutoAwesomeMosaicIcon size={20} style={{color:"whitesmoke"}}/>
+     <AutoAwesomeMosaicIcon size={30} style={{color:"whitesmoke"}}/>
      </div>
 </div> 
 

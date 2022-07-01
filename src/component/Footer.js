@@ -29,14 +29,17 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
      <div className="right">
        <p>About the company:</p>
         <p>According to the definition, a company profile is a professional introduction of the business which aims to inform the audience about its products and services. </p>
-        <div className="social"><FacebookIcon size={30} style={{color:'white', marginRight:"1rem"}}/>
+        <div className="social">
+          <div>
+          <a href="https://www.facebook.com/" target="-blank"> <FacebookIcon size={30} style={{color:'white', marginRight:"1rem"}}/></a>
        
-        <InstagramIcon size={30} style={{color:'white', marginRight:"1rem"}}/>
+         <a href='https://www.instagram.com/?hl=en' target="-blank"> <InstagramIcon size={30} style={{color:'white', marginRight:"1rem"}}/></a>
        
-       <TwitterIcon  size={30} style={{color:'white', marginRight:"1rem"}}/>
+     <a href='https://twitter.com/login' target="-blank"  ><TwitterIcon  size={30} style={{color:'white', marginRight:"1rem"}}/></a>
 
-    <LinkedInIcon size={30} style={{color:'white', marginRight:"1rem"}}/>
-        </div>
+        <a href='https://in.linkedin.com/' target="-blank"><LinkedInIcon size={30} style={{color:'white', marginRight:"1rem"}}/></a>
+    </div>
+    </div>
       </div> 
     </div>
   </div>

@@ -1,15 +1,14 @@
 import React from 'react'
-import Navbar from '../component/Navbar'
-import Footer from '../component/Footer'
 import Image3 from '../component/Image3'
-const Contact=()=>{
+import Footer from '../component/Footer'
+function Contact() {
   return (
-    <div>
-       <Navbar/>
-       <Image3/>
-    <Footer/>
-    </div>
+    <div className="contact">
+     
+      <Image3/>
+      <Footer/>
+      </div>
   )
 }
 
-export default Contact;
+export default Contact

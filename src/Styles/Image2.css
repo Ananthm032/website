@@ -33,6 +33,7 @@
     height: 100%;
   
 }
+
 .next h1{
     margin-left: 40%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,7 +44,7 @@
     margin-left:7.5% ;
     color: rgb(2, 46, 59);
     font-size: large;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 .next img{
     margin-left: 30%;

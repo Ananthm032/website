@@ -22,7 +22,7 @@ ul{
     padding: 12px 32px;
 font-size: 2rem;
 text-transform: uppercase;
-background-color: rgb(12, 31, 204);
+background-color: transparent;
 border: 1px solid rgb(231, 228, 222);
 font-weight: 600;
 cursor: pointer;

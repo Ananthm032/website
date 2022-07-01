@@ -30,10 +30,10 @@ export default function Image2() {
 <p>An electronic card (e-card) is a special occasion, greeting or post card created and customized within a website and sent through the Internet to the recipient 
 </p><h1>Features of the Ideal Todo App:
 </h1>
-                <p> Reorder Tasks – This one is really simple.<br/> 
-Prioritization – This is another basic time management feature. <br/> 
-Quick Entry/Capture – Todo apps should always be ready to quickly capture a random task.<br/>  
-Simple UI – Following on from quick capture, overall the app should be simple.</p><br/> 
+                <p> *Reorder Tasks – This one is really simple.<br/> 
+ *Prioritization – This is another basic time management feature. <br/> 
+*Quick Entry/Capture – Todo apps should always be ready to quickly capture a random task.<br/>  
+*Simple UI – Following on from quick capture, overall the app should be simple.</p><br/> 
                 </div>
              </div>
           
