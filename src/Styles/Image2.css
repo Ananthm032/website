@@ -49,3 +49,59 @@
 .next img{
     margin-left: 30%;
 }
+.chart{
+    margin: 20px;
+    padding: 20px;
+    -webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+.chart-title{
+    margin-bottom: 20px;
+    margin-left: 32%;
+    font-size: 40px;
+    cursor: move;
+}
+.sales{
+    width:300px;
+    height:150px ;
+    -webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 2px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 2px 5px 15px 5px rgba(0,0,0,0);
+margin-top: 0;
+margin-left: 20px;
+}
+.box1{
+    font-size: 35px;
+    margin-left:30% ;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(4, 11, 53);
+ 
+}
+.arrow{
+    display: flex;
+    margin-left: 20px;
+    align-items: center;
+}
+.compare{
+    font-size:25px ;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.money{
+    font-size: 30px;
+}
+.rate{
+    color: green;
+margin-bottom: 15px;
+margin-left: 15px;
+}
+.year{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 50px;
+}
+.rate1{
+    color: rgb(218, 23, 23);
+margin-bottom: 15px;
+margin-left: 15px; 
+}
